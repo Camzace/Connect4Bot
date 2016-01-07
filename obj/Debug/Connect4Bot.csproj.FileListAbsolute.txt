@@ -1,0 +1,6 @@
+c:\users\cameron\documents\visual studio 2015\Projects\Connect4Bot\Connect4Bot\bin\Debug\Connect4Bot.exe.config
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\Connect4Bot\Connect4Bot\obj\Debug\Connect4Bot.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\Connect4Bot\Connect4Bot\bin\Debug\Connect4Bot.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\Connect4Bot\Connect4Bot\bin\Debug\Connect4Bot.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\Connect4Bot\Connect4Bot\obj\Debug\Connect4Bot.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\Connect4Bot\Connect4Bot\obj\Debug\Connect4Bot.pdb
